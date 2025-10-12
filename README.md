@@ -6,4 +6,6 @@ The software I provide (and the binary versions for Windows and Linux) used to b
 
 One of my software, called VAT-Validation (now [VATValidation](https://github.com/dseichter/VATValidation)) was previously released as a commercial product. After refactoring, it is now fully released as OpenSource.
 
+My latest project I am currently working on is [yahac](https://github.com/dseichter/yahac). Yet Another Home Assistant Client.
+
 If you like any of my software, please feel free to give it a star ⭐, link 🔗 it on your website or tell your friends about it.
